@@ -5,7 +5,6 @@ A simple Python script to export song titles and artists from a Spotify playlist
 ## Features
 - Exports all tracks from any public Spotify playlist
 - Saves track name and artist(s) to a CSV file
-- Works with playlists longer than 100 songs
 
 ## Requirements
 - Python 3.8+
