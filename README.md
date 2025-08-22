@@ -1,6 +1,6 @@
 # Spotify Playlist Exporter
 
-A simple Python script to export song titles and artists from a Spotify playlist into a CSV file.
+A simple Python script to export song titles and artists from a Spotify playlist into a CSV file. [🔗](https://tuominen04.github.io/projects/spotify_playlist_exporter/)
 
 ## Features
 - Exports all tracks from any public Spotify playlist
